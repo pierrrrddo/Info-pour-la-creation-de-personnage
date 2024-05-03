@@ -30,7 +30,7 @@ En réfléchissant à la classe de votre personnage, tenez compte des nouvelles 
 [Voici le lien](https://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Classes.ashx#CLASSESDEBASE) pour aller voir les classes et déjà te faire une idée.
 
 Si ta trop la flemme de voir par toi même ou tu ne comprends pas certains truc / rien du tout, demande moi (de toute façon je comptais le faire avec vous).
-## **Les religions des croisades :****
+## **Les religions des croisades :**
 
 Les cultes d'Abadar, d'Iomédae, de Sarenrae, de Shelyn et de Torag sont les plus actifs parmi les croisés de Mendev. Cependant, les divinités et seigneurs empyréens bienveillants (en particulier Desna ou le Seigneur Empyréen Pulura) jouent également un rôle important. La foi en une divinité n'est pas requise, mais bon nombre des alliés et des ressources que vous rencontrerez seront liés aux divinités bienveillantes de Golarion.
 
