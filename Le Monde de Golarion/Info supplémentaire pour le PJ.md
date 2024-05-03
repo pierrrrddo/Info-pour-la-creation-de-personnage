@@ -142,7 +142,7 @@ _Au début du jeu, vous recevez gratuitement un symbole sacré en argent de la d
 
 [Voici les étapes de création de personnage](https://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Cr%c3%a9er%20un%20personnage.ashx). si vous avez envie de déjà voir comment faire je vous donne deux petites infos :
 
-- pour la 1ere étape les caractéristique a utilisées sont la méthodes d'==achat== pour un type de campagne ==standard== (15 points).
+- pour la 1ere étape les caractéristique a utilisées sont la méthodes d'**achat** pour un type de campagne **standard** (15 points).
 - pour l'étape 5 on fera ensemble obligé pour la quantité d'or de départ.
 # **KENABRES** :
 
