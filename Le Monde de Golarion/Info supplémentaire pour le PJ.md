@@ -65,7 +65,7 @@ Tous les PNJ maléfiques de "La Colère des Justes" ne sont pas destinés à êt
 
 
 
-# **TRAITS DE CAMPAGNE**
+# **TRAITS DE CAMPAGNE :**
 
 Les traits de campagne suivants lient les personnages à La Colère des Justes. chaque personnage de la campagne possède l'un des traits de campagne suivants. Choisir le meilleur trait pour votre personnage est important, et ce choix refera surface au cours de la campagne.
 
@@ -138,7 +138,13 @@ _Au début du jeu, vous recevez gratuitement un symbole sacré en argent de la d
 
 **Plusieurs personnages :** Si d'autres personnages choisissent ce trait, vous devez tous travailler ensemble pour décider de la divinité à laquelle vous êtes associés - il doit s'agir de la même divinité partagée par vous tous. Vous pourriez même faire les mêmes rêves.
 
-# **Kenabres** :
+# **CREATION DE PERSONNAGE :**
+
+[Voici les étapes de création de personnage](https://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Cr%c3%a9er%20un%20personnage.ashx). si vous avez envie de déjà voir comment faire je vous donne deux petites infos :
+
+- pour la 1ere étape les caractéristique a utilisées sont la méthodes d'==achat== pour un type de campagne ==standard== (15 points).
+- pour l'étape 5 on fera ensemble obligé pour la quantité d'or de départ.
+# **KENABRES** :
 
 La ville de Kenabres, du haut de son perchoir sur les falaises orientales surplombant la rivière West Sellen, veille sur la Gueule du Vide, une menace omniprésente. C'est le point de rassemblement des croisés qui s'aventurent dans l'abysse démoniaque, et elle est farouchement défendue par un groupe de défenseurs résolus, quoique parfois trop zélés.
 
