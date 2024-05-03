@@ -1,5 +1,5 @@
 --- 
-La Colère des justes est une campagne d'aventure qui débute avec le lancement de la Cinquième Croisade Mendévienne, peu après une attaque dévastatrice des armées démoniaques sur la frontière de la Gueule du Vide. De ce début explosif va naître un nouveau groupe de héros - des héros destinés à des exploits légendaires. Mais la colère vertueuse de ces héros suffira-t-elle à arrêter la fureur totale de l'Abysse ?
+La Colère des justes est une campagne d'aventure qui débute avec le lancement de la Cinquième Croisade Mendévienne, peu après une attaque dévastatrice des armées démoniaques sur la frontière de la Gueule du Vide (aussi appelé la Plaie du Monde). De ce début explosif va naître un nouveau groupe de héros - des héros destinés à des exploits légendaires. Mais la colère vertueuse de ces héros suffira-t-elle à arrêter la fureur totale de l'Abysse ?
 
 # **CONSEILS DE CRÉATION DE PERSONNAGE :**
 
@@ -37,11 +37,11 @@ Les démons sont vos principaux adversaires dans "La Colère des Justes", mais l
 
 ## **Origines :**
 
-Des gens de tout le continent de Golarion se rendent au nord à Mendev pour offrir leur épée dans la lutte contre les démons de la Gueule du Vide. Ainsi, votre personnage peut raisonnablement provenir de n'importe où sur Golarion. Le Sentier de la Droiture commence dans la cité-croisée de Kenabres, alors assurez-vous que votre personnage a une raison de s'enrôler dans le combat et de se rendre à Kenabres. La campagne commence un jour saint, peut-être que votre personnage a fait un pèlerinage à Kenabres pour célébrer la veille de son engagement dans la cause. Un bref aperçu de la ville de Kenabres se trouve dans ce Guide du Joueur en page 9.
+Des gens de tout le continent de Golarion se rendent au nord à Mendev pour offrir leur épée dans la lutte contre les démons de la Gueule du Vide. Ainsi, votre personnage peut raisonnablement provenir de n'importe où sur Golarion. Le Sentier de la Droiture commence dans la cité-croisée de Kenabres, alors assurez-vous que votre personnage a une raison de s'enrôler dans le combat et de se rendre à Kenabres. La campagne commence un jour saint, peut-être que votre personnage a fait un pèlerinage à Kenabres pour célébrer la veille de son engagement dans la cause. Un bref aperçu de la ville de Kenabres se trouve à la fin du chapitre sur Kenabres.
 
 ## **Paladins :**
 
-Cette aventure est un excellent choix pour les personnages paladins. Non seulement il y a beaucoup d'ennemis contre lesquels les paladins excellent, mais d'un point de vue du jeu de rôle, la croisade contre la Gueule du Vide est faite sur mesure pour eux. Cependant, gardez à l'esprit qu'il y aura des moments pendant votre aventure où les choses sembleront sombres, et on vous présentera parfois des choix moraux et éthiques difficiles. N'oubliez pas également de lire les notes sur la rédemption en page 11.
+Cette aventure est un excellent choix pour les personnages paladins. Non seulement il y a beaucoup d'ennemis contre lesquels les paladins excellent, mais d'un point de vue du jeu de rôle, la croisade contre la Gueule du Vide est faite sur mesure pour eux. Cependant, gardez à l'esprit qu'il y aura des moments pendant votre aventure où les choses sembleront sombres, et on vous présentera parfois des choix moraux et éthiques difficiles. N'oubliez pas également de lire les notes sur la rédemption (j'ai pas encore écris les explications pour la rédemption).
 
 ## **Races :**
 
@@ -53,10 +53,9 @@ En plus de défendre le continent de l'horreur démoniaque, un bon nombre de nai
 
 Alors que presque toutes les ethnies humaines de la région de la mer Intérieure peuvent être comptées parmi ceux qui luttent contre la Gueule du Vide, certains disent que les Kellids sont les plus passionnés par la guérison de la blessure abyssale (Gueule du Vide). Leur patrie, Sarkoris, est tombée lorsque la Gueule du Vide s'est ouverte, et de nombreux Kellids dans l'armée de Mendev se battent non seulement pour assurer la sécurité des générations futures, mais aussi pour racheter leur patrie en ruine.
 
-## **Rédemption :**
+## **Rédemption (pour PNJ) :**
 
-Tous les PNJ maléfiques de "La Colère des Justes" ne sont pas destinés à être tués. De temps en temps, vous rencontrerez des PNJ qui s'efforcent d'être rachetés ou qui lutten
-t contre leur nature maléfique. "La Sentier de la Droiture" offrira aux personnages plusieurs occasions de racheter et de guider les PNJ et les organisations vers le chemin de la droiture. La rédemption pourrait également être une mission personnelle pour votre personnage. Peut-être que votre personnage a décidé de combattre pour la croisade afin de purger un passé entaché.
+Tous les PNJ maléfiques de "La Colère des Justes" ne sont pas destinés à être tués. De temps en temps, vous rencontrerez des PNJ qui s'efforcent d'être rachetés ou qui luttent contre leur nature maléfique. "La Colère des Justes" offrira aux personnages plusieurs occasions de racheter et de guider les PNJ et les organisations vers le chemin de la rédemption. La rédemption pourrait également être une mission personnelle pour votre personnage. Peut-être que votre personnage a décidé de combattre pour la croisade afin de purger un passé entaché.
 
 
 
@@ -73,6 +72,7 @@ Enfin, vous remarquerez également que ces traits sont un peu plus puissants que
 ## Rencontre Chanceuse :
 
 Enfant, vous aviez déjà la fâcheuse habitude de vous mettre dans des situations inextricables, mais votre plus grosse bêtise a été de vous retrouver "accidentellement" derrière les lignes ennemies, dans la Gueule du Vide. Vous ne seriez probablement jamais rentré chez vous à Kenabres sans l'aide d'une mystérieuse femme qui vous a permis de duper un groupe de cultistes. Elle ne vous a jamais révélé son nom, mais vous vous souvenez de sa beauté et de la profonde tristesse qu'elle semblait porter en elle. Son talent à l'arc était impressionnant, mais ce que vous retenez le plus d'elle, c'est le symbole de Desna qu'elle portait. Elle le tenait souvent dans sa main sans s'en rendre compte, comme si le lien avec la déesse était une nécessité vitale, tel quelqu'un agrippant une corde au-dessus d'un gouffre béant. Elle vous a quitté quelques instants avant que vous ne soyez secouru par une patrouille de croisés qui vous ont ramené en sécurité. Vous ne l'avez jamais revue depuis. Depuis lors, la chance vous sourit en matière de tromperie :
+
 _Une fois par jour, si vous ratez un jet d'Acrobatie, de Bluff, de Déguisement, de Tour de Passe-passe ou de Discrétion, vous pouvez immédiatement le relancer en action libre. Vous devez prendre le second résultat, même s'il est pire._
 
 **Voie Mythique associée : Trickster (Escroc)**
@@ -124,13 +124,15 @@ _Aujourd'hui, lorsque vous affrontez des démons au combat, ces énergies alimen
 
 Depuis aussi loin que vous vous en souveniez, vous avez porté un intérêt inexplicable à une divinité en particulier. Il se peut que l'un de vos parents ait été prêtre de cette divinité, ou que vous ayez été un orphelin élevé par l'église, mais cela seul ne saurait expliquer votre profond lien avec la foi. Vous vous êtes toujours senti calme et apaisé dans les lieux saints dédiés à cette divinité, et vous faites souvent des rêves où le dieu ou la déesse vous rend visite - le plus souvent sous la forme d'un animal ou d'une créature sacrée.
 
-Votre foi est forte, même si vous n'êtes pas un lanceur de sorts divins - si vous l'êtes, vous devriez vénérer cette divinité. Au début du jeu, vous recevez gratuitement un symbole sacré en argent de la divinité que vous avez choisie. De plus, choisissez un domaine associé à votre divinité. Vous gagnez l'utilisation du sort de niveau 1 de ce domaine en tant que capacité semblable à un sort utilisable une fois par jour (le NV est égal à votre niveau de personnage).
+Votre foi est forte, même si vous n'êtes pas un lanceur de sorts divins - si vous l'êtes, vous devriez vénérer cette divinité :
+
+_Au début du jeu, vous recevez gratuitement un symbole sacré en argent de la divinité que vous avez choisie. De plus, choisissez un domaine associé à votre divinité. Vous gagnez l'utilisation du sort de niveau 1 de ce domaine en tant que capacité semblable à un sort utilisable une fois par jour (le NV est égal à votre niveau de personnage)._
 
 **Voie Mythique associée : Hiérophante**
 
 **Plusieurs personnages :** Si d'autres personnages choisissent ce trait, vous devez tous travailler ensemble pour décider de la divinité à laquelle vous êtes associés - il doit s'agir de la même divinité partagée par vous tous. Vous pourriez même faire les mêmes rêves.
 
-# **Kénabres** :
+# **Kenabres** :
 
 La ville de Kenabres, du haut de son perchoir sur les falaises orientales surplombant la rivière West Sellen, veille sur la Gueule du Vide, une menace omniprésente. C'est le point de rassemblement des croisés qui s'aventurent dans l'abysse démoniaque, et elle est farouchement défendue par un groupe de défenseurs résolus, quoique parfois trop zélés.
 
