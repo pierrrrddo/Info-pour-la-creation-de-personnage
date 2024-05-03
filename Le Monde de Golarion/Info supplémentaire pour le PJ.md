@@ -27,6 +27,9 @@ Bien que cette aventure se concentre principalement sur les aspects martiaux et 
 
 En réfléchissant à la classe de votre personnage, tenez compte des nouvelles options qui pourraient vous être offertes par le supplément Pathfinder JdR Mythic Adventures. Les voies mythiques ne sont pas liées à des classes spécifiques, mais certaines classes bénéficient davantage de voies particulières.
 
+[Voici le lien](https://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Classes.ashx#CLASSESDEBASE) pour aller voir les classes et déjà te faire une idée.
+
+Si ta trop la flemme de voir par toi même ou tu ne comprends pas certains truc / rien du tout, demande moi (de toute façon je comptais le faire avec vous).
 ## **Les religions des croisades :****
 
 Les cultes d'Abadar, d'Iomédae, de Sarenrae, de Shelyn et de Torag sont les plus actifs parmi les croisés de Mendev. Cependant, les divinités et seigneurs empyréens bienveillants (en particulier Desna ou le Seigneur Empyréen Pulura) jouent également un rôle important. La foi en une divinité n'est pas requise, mais bon nombre des alliés et des ressources que vous rencontrerez seront liés aux divinités bienveillantes de Golarion.
@@ -53,6 +56,9 @@ En plus de défendre le continent de l'horreur démoniaque, un bon nombre de nai
 
 Alors que presque toutes les ethnies humaines de la région de la mer Intérieure peuvent être comptées parmi ceux qui luttent contre la Gueule du Vide, certains disent que les Kellids sont les plus passionnés par la guérison de la blessure abyssale (Gueule du Vide). Leur patrie, Sarkoris, est tombée lorsque la Gueule du Vide s'est ouverte, et de nombreux Kellids dans l'armée de Mendev se battent non seulement pour assurer la sécurité des générations futures, mais aussi pour racheter leur patrie en ruine.
 
+[Voici le lien](https://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Races.ashx) pour aller voir les races et déjà te faire une idée.
+
+Si ta trop la flemme de voir par toi même ou tu ne comprends pas certains truc / rien du tout, demande moi (de toute façon je comptais le faire avec vous).
 ## **Rédemption (pour PNJ) :**
 
 Tous les PNJ maléfiques de "La Colère des Justes" ne sont pas destinés à être tués. De temps en temps, vous rencontrerez des PNJ qui s'efforcent d'être rachetés ou qui luttent contre leur nature maléfique. "La Colère des Justes" offrira aux personnages plusieurs occasions de racheter et de guider les PNJ et les organisations vers le chemin de la rédemption. La rédemption pourrait également être une mission personnelle pour votre personnage. Peut-être que votre personnage a décidé de combattre pour la croisade afin de purger un passé entaché.
