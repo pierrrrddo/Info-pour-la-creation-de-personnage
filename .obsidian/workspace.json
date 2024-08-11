@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "7f3ada54b2b72ca2",
+    "type": "split",
+    "children": [
+      {
+        "id": "a55ea29c1e4ed06e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5748744e52aebf4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Le Monde de Golarion/Région/Mendev.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d64f4bc969014f19",
+    "type": "split",
+    "children": [
+      {
+        "id": "b032477ede9f2f85",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2d791c31608051a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e00bad471e4e844d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0b0662e9b4e27b35",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "027ee054998c90df",
+    "type": "split",
+    "children": [
+      {
+        "id": "07f32617d32a7c16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7a2ac7709caa3ae",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Le Monde de Golarion/Région/Mendev.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bbd670c6722b0188",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Le Monde de Golarion/Région/Mendev.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "feaf94c8f0f90d66",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "83995d778b93d882",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Le Monde de Golarion/Région/Mendev.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "audio-recorder:Start/stop recording": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d5748744e52aebf4",
+  "lastOpenFiles": [
+    "Le Monde de Golarion/Région/Neathholm.md",
+    "Le Monde de Golarion/Région/Mendev.md",
+    "Le Monde de Golarion/Info supplémentaire pour le PJ.md",
+    "Le Monde de Golarion/_les Dieux/Abadar.md"
+  ]
+}
